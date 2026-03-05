@@ -8,7 +8,7 @@
 
 ## 👋 Hi There
 
-I'm **Prity**, a passionate developer, focused on building real-world projects, contributing to open source, and growing every day through code.
+I'm **Prity**, a passionate developer, focused on AI, building real-world projects, DSA, contributing to open source, and growing every day through code.
 
 ---
 
