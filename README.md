@@ -123,6 +123,10 @@ I'm **Prity**, a passionate developer, focused on AI, building real-world projec
 |:-:|:-:|:-:|:-:|
 | **7** | **2** | **2** | **March 2025** |
 
+| 🔥 Total Contributions | ⚡ Current Streak | 🏆 Longest Streak |
+|:-:|:-:|:-:|
+| **20** | **2 days** (Mar 5 – Mar 6) | **2 days** (Nov 17 – Nov 18, 2025) |
+
 </div>
 
 ---
