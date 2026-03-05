@@ -1,6 +1,16 @@
 <div align="center">
 
-**Prity Kashyap • Full-Stack Dev • Open Source Enthusiast • Problem Solver**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Prity+Kashyap+%F0%9F%91%8B;Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+ML+Learner;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
+
+**Aspiring Software Engineer | AI & Full-Stack Developer**
+
+Building AI-Powered Web Applications | MERN | AI/ML | Open Source
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prity-kumari-73b07b359)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prityykashyap)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrityyKashyap)
 
 </div>
 
@@ -8,7 +18,18 @@
 
 ## 👋 Hi There
 
-I'm **Prity**, a passionate developer, focused on AI, building real-world projects, DSA, contributing to open source, and growing every day through code.
+I'm **Prity Kashyap**, a software developer from **Bihar 🇮🇳** passionate about **AI and full-stack development**.
+Building real-world projects, improving DSA, and contributing to open source — one commit at a time! 🚀
+
+---
+
+## 🌱 Currently Learning
+
+- 🔥 Advanced React & Next.js
+- 🤖 Machine Learning with Python
+- 🧩 System Design Basics
+- 📚 Data Structures & Algorithms
+- ☁️ Cloud & DevOps fundamentals
 
 ---
 
@@ -102,7 +123,26 @@ I'm **Prity**, a passionate developer, focused on AI, building real-world projec
 
 ---
 
-## 🔗 🎯 My Development Focus
+## � Featured Projects
+
+### 🤖 HireSense AI
+> AI-powered resume screening and hiring platform built with Next.js, Supabase & Gemini API.
+
+### 🌐 Full-Stack Web Apps
+> Multiple full-stack projects built using the MERN stack (MongoDB, Express, React, Node.js).
+
+### 🎮 Cursor Game
+> Interactive JavaScript game using real-time cursor tracking and DOM manipulation.
+
+### 🥁 Drum Kit
+> Virtual drum kit using keyboard events, audio APIs and vanilla JavaScript.
+
+### 🌦 Weather App
+> Weather forecast app built with HTML, CSS and JavaScript using a public weather API.
+
+---
+
+## 🎯 My Development Focus
 
 - 🚀 Build full-stack web applications
 - 🤖 Learn AI/ML & build intelligent applications
@@ -112,6 +152,16 @@ I'm **Prity**, a passionate developer, focused on AI, building real-world projec
 - 🎨 Explore UI/UX with Figma
 - 📦 Build real-world portfolio projects
 - 🏛️ Learn clean architecture & best practices
+
+---
+
+## 🏆 Achievements
+
+- 🌟 Built 5+ real-world web development projects
+- 🤖 Developed HireSense AI — an AI-powered hiring platform
+- 🏗️ Learning MERN stack & full-stack architecture
+- 🔬 Exploring AI / ML & Data Science
+- 🤝 Open source contributor
 
 ---
 
@@ -129,13 +179,33 @@ I'm **Prity**, a passionate developer, focused on AI, building real-world projec
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prity-kumari-73b07b359)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prityykashyap)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrityyKashyap)
+[![Prity's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrityyKashyap&theme=tokyo-night)](https://github.com/PrityyKashyap)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/PrityyKashyap/PrityyKashyap/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 📄 Resume & Portfolio
+
+<div align="center">
+
+📥 **Resume:** *(Add your Google Drive / PDF link here)*
+
+🌐 **Portfolio Website:** *(Coming soon — stay tuned!)*
 
 </div>
 
