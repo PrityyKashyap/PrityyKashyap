@@ -16,9 +16,9 @@ I'm **Prity**, a passionate developer, focused on AI, building real-world projec
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,react,nodejs,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,react,nodejs,javascript,html,css,tensorflow" />
 
-**Python • Java • React • Node.js • JavaScript • HTML • CSS**
+**Python • Java • React • Node.js • JavaScript • AI/ML • Data Science**
 
 </div>
 
@@ -66,6 +66,32 @@ I'm **Prity**, a passionate developer, focused on AI, building real-world projec
 
 ---
 
+### 🤖 AI / ML
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org)
+
+</div>
+
+---
+
+### 📊 Data Science
+
+<div align="center">
+
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+
+</div>
+
+---
+
 ### 🛠️ Tools
 
 <div align="center">
@@ -79,6 +105,8 @@ I'm **Prity**, a passionate developer, focused on AI, building real-world projec
 ## 🔗 🎯 My Development Focus
 
 - 🚀 Build full-stack web applications
+- 🤖 Learn AI/ML & build intelligent applications
+- 📊 Explore Data Science & data-driven insights
 - 💡 Contribute to open source projects
 - 🧠 Improve DSA problem solving skills
 - 🎨 Explore UI/UX with Figma
