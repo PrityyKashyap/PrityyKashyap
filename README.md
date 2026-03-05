@@ -170,35 +170,12 @@ Building real-world projects, improving DSA, and contributing to open source —
 
 <div align="center">
 
-![Prity's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrityyKashyap&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrityyKashyap&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrityyKashyap&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Prity's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrityyKashyap&theme=tokyo-night)](https://github.com/PrityyKashyap)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-> ⚡ Go to **Actions tab** → **Generate Snake Animation** → **Run workflow** to activate this!
-
-</div>
-
----
 
 ## 📄 Resume & Portfolio
 
