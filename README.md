@@ -115,49 +115,15 @@ I'm **Prity**, a passionate developer, focused on AI, building real-world projec
 
 ---
 
-## 📊 My GitHub At a Glance
+## 📊 GitHub Stats
 
 <div align="center">
 
-| 📦 Public Repos | 👥 Followers | 👣 Following | 📅 Member Since |
-|:-:|:-:|:-:|:-:|
-| **7** | **2** | **2** | **March 2025** |
+<img src="https://github-readme-stats.vercel.app/api?username=PrityyKashyap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prity's GitHub Stats" />
 
-| 🔥 Total Contributions | ⚡ Current Streak | 🏆 Longest Streak |
-|:-:|:-:|:-:|
-| **20** | **2 days** (Mar 5 – Mar 6) | **2 days** (Nov 17 – Nov 18, 2025) |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrityyKashyap&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</div>
-
----
-
-## 💻 Languages I've Used
-
-<div align="center">
-
-| Language | Used In |
-|:--|:--|
-| 🟧 HTML | Counter-App |
-| 🟨 JavaScript | Cursor-Game, Web-Dev-Semester-2 |
-| 🟦 CSS | WeatherApp, Drum-kit-Project |
-| 🔷 TypeScript | hiresense-ai |
-
-</div>
-
----
-
-## 🗂️ My Projects
-
-<div align="center">
-
-| Project | Language | Description |
-|:--|:--|:--|
-| [🌦️ WeatherApp](https://github.com/PrityyKashyap/WeatherApp) | CSS / JS | Weather application |
-| [🎯 Counter-App](https://github.com/PrityyKashyap/Counter-App) | HTML / JS | Interactive counter app |
-| [🖱️ Cursor-Game](https://github.com/PrityyKashyap/Cursor-Game) | JavaScript | Cursor-based game |
-| [🥁 Drum-kit-Project](https://github.com/PrityyKashyap/Drum-kit-Project) | CSS / JS | Virtual drum kit |
-| [🤖 hiresense-ai](https://github.com/PrityyKashyap/hiresense-ai) | TypeScript | AI-powered hiring platform |
-| [📚 Web-Dev-Semester-2](https://github.com/PrityyKashyap/Web-Dev-Semester-2) | JavaScript | Semester 2 web dev work |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrityyKashyap&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -189,7 +155,5 @@ I'm **Prity**, a passionate developer, focused on AI, building real-world projec
 <div align="center">
 
 Made with ❤️ by **Prity**
-
-![Profile Views](https://komarev.com/ghpvc/?username=PrityyKashyap&color=blueviolet&style=flat-square)
 
 </div>
