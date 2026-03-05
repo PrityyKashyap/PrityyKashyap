@@ -170,11 +170,11 @@ Building real-world projects, improving DSA, and contributing to open source —
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrityyKashyap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prity's GitHub Stats" />
+![Prity's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrityyKashyap&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrityyKashyap&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrityyKashyap&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrityyKashyap&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrityyKashyap&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -194,7 +194,7 @@ Building real-world projects, improving DSA, and contributing to open source —
 
 <div align="center">
 
-![snake gif](https://github.com/PrityyKashyap/PrityyKashyap/blob/output/github-contribution-grid-snake.svg)
+> ⚡ Go to **Actions tab** → **Generate Snake Animation** → **Run workflow** to activate this!
 
 </div>
 
