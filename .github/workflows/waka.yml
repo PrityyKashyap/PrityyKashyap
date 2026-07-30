@@ -1,0 +1,11 @@
+name: WakaTime
+
+on:
+  workflow_dispatch:
+
+jobs:
+  waka:
+    runs-on: ubuntu-latest
+
+    steps:
+      - run: echo "WakaTime coming soon!"

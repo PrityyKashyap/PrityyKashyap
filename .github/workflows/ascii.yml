@@ -1,0 +1,32 @@
+name: Generate ASCII Art
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  ascii:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: |
+          pip install pillow numpy
+
+      - run: |
+          python scripts/read_image.py
+
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+          git add ascii_art.txt
+
+          git diff --cached --quiet || git commit -m "Update ASCII Art"
+
+          git push
