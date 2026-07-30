@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="images/banner.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="images/coding.gif" width="500"/>
+</p>
+
 <div align="center">
 
 <p align="center">
@@ -124,7 +132,7 @@ Building real-world projects, improving DSA, and contributing to open source —
 
 ---
 
-## � Featured Projects
+## 🚀 Featured Projects
 
 ### 🤖 HireSense AI
 > AI-powered resume screening and hiring platform built with Next.js, Supabase & Gemini API.
@@ -171,8 +179,27 @@ Building real-world projects, improving DSA, and contributing to open source —
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrityyKashyap&theme=tokyonight&hide_border=true)
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrityyKashyap&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrityyKashyap&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 </div>
+
+---
+
+## 💻 LeetCode
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/PrityyKashyap?theme=dark&font=Karma"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PrityyKashyap&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
@@ -198,9 +225,6 @@ Building real-world projects, improving DSA, and contributing to open source —
 </div>
 
 ---
-
----
-
 
 ## 📄 Resume & Portfolio
 
