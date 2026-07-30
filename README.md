@@ -188,9 +188,9 @@ Building real-world projects, improving DSA, and contributing to open source —
 ---
 
 ## 💻 LeetCode
-
+"
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/PrityyKashyap?theme=dark&font=Karma"/>
+<img src="https://leetcode.com/u/Prityyyy/>
 </p>
 
 ---
