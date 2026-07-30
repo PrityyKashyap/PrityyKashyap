@@ -190,7 +190,7 @@ Building real-world projects, improving DSA, and contributing to open source —
 ## 💻 LeetCode
 "
 <p align="center">
-<img src="https://leetcode.com/u/Prityyyy">
+<img src="https://leetcode.com/u/Prityyyy/">
 </p>
 
 ---
